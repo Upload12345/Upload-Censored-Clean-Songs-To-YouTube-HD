@@ -1,0 +1,2 @@
+- name: Setup YouTube Uploader
+  uses: AnimMouse/setup-youtubeuploader@v2
